@@ -463,5 +463,5 @@ With the described steps and techniques, the lane detection in the project video
 4. How do we go about when a vehicle is right in front blocking the single point perspective?
 5. How about at urban road conditions where lane marks are not proper at times?
 
-There are many more practical challenges to overcome and at this point, I start to appreciate deep learning techniques when feature maps can be trained from vast data of different scenarios to extract the lane boundary and also other hidden layers that is robust enough to generalize.
+There are many more practical challenges to overcome and at this point, I start to appreciate deep learning techniques when feature maps can be trained from vast data of different scenarios to extract the lane boundary and also other hidden layers that are robust enough to generalize.
 
